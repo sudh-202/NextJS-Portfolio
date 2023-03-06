@@ -82,7 +82,7 @@ export const projects = [
   },
 
   {
-    title: "3-D Model Website",
+    title: "ThreeJs Site",
     description:
       "Responsive 3d portfolio Website using React and  3-D Models of Three.js",
     image: "/images/3d.jpg",
